@@ -1,0 +1,2 @@
+Attached the code for running a classification training on jupyter notebook. The user needs to provide the local path to the folder containing train_images. The only change I made with respect to the format is that the directory structure for train_images is the only folder necessary. The images were not manually moved to test_images. Rather, the code splits the train and test data. 
+The report.csv contains predictions on 450 images. 
